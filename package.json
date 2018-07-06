@@ -1,25 +1,26 @@
 {
-  "name": "dialogflow-query",
+  "name": "telnyx-sendsms",
   "version": "1.0.0",
-  "description": "Simple helper for querying dialogflow from js",
+  "description": "Simple helper for sending sms through telnyx",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/MorenoJoshua/dialogflow-query.git"
+    "url": "git+https://github.com/MorenoJoshua/telnyx-sendsms.git"
   },
   "keywords": [
-    "dialogflow",
+    "telnyx",
+    "sms",
     "nodejs"
   ],
   "author": "Joshua Moreno",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/MorenoJoshua/dialogflow-query/issues"
+    "url": "https://github.com/MorenoJoshua/telnyx-sendsms/issues"
   },
-  "homepage": "https://github.com/MorenoJoshua/dialogflow-query#readme",
+  "homepage": "https://github.com/MorenoJoshua/telnyx-sendsms#readme",
   "dependencies": {
     "axios": "^0.18.0"
   }
