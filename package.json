@@ -1,0 +1,26 @@
+{
+  "name": "dialogflow-query",
+  "version": "1.0.0",
+  "description": "Simple helper for querying dialogflow from js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MorenoJoshua/dialogflow-query.git"
+  },
+  "keywords": [
+    "dialogflow",
+    "nodejs"
+  ],
+  "author": "Joshua Moreno",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MorenoJoshua/dialogflow-query/issues"
+  },
+  "homepage": "https://github.com/MorenoJoshua/dialogflow-query#readme",
+  "dependencies": {
+    "axios": "^0.18.0"
+  }
+}
